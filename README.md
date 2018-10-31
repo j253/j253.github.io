@@ -1,6 +1,6 @@
 ## Equations
 
-This is an equation $\nabla \cdot \vec{u} = 0$
+This is an equation. Negative, the equation doesn't work.
 
 ## Thanks!
 
