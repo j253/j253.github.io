@@ -1,7 +1,3 @@
-## Equations
+# Welcome!
 
-This is an equation. Negative, the equation doesn't work.
-
-## Thanks!
-
-And this is the end. Test.
+There's nothing here right now, but my blog is at https://j253.github.io/blog.
